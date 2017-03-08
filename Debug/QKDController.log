@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/10/25 9:54:26。
+     1>项目“C:\Users\centmaster\Desktop\水平滚动条版本 QKDController\QKDController.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\QKDController.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>c:\users\centmaster\desktop\水平滚动条版本 qkdcontroller\stdafx.h(15): fatal error C1083: 无法打开包括文件:“afxwin.h”: No such file or directory
+     1>已完成生成项目“C:\Users\centmaster\Desktop\水平滚动条版本 QKDController\QKDController.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.76
